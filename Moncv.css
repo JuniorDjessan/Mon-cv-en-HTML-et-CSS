@@ -1,0 +1,42 @@
+.page{
+    width: 780px;
+    margin:auto
+    font-family: 'source sans pro' , calibri, Tahoma, sans-serif;
+    font-size: 16px;
+}
+.infophoto{
+    height: 250px
+}
+.info{
+    background-color:#FF83FB; ;
+    margin-left: 100px;
+    /*float: left; */
+}
+.photo{
+    float: left;
+    background-color: #FF83FB;
+} 
+
+
+.section{
+    margin-bottom: 10px;
+    text-align: justify;
+}
+
+.sec-gauche{
+    float: left;
+    margin-top: ;
+    font-weight: bold;
+    color: #FF83FB;
+}
+
+.sec-milieu{
+    float: center;
+    margin-bottom: ;
+}
+
+.sec-droite{
+    float: right;
+    margin-bottom: ;
+    
+}
