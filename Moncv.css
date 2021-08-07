@@ -1,42 +1,64 @@
 .page{
-    width: 780px;
-    margin:auto
-    font-family: 'source sans pro' , calibri, Tahoma, sans-serif;
-    font-size: 16px;
+   width: 890px; 
+   margin: auto;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 16px;
+   border: 5px solide #ff83FB
+   border radius: 2px;
+   box-shadow: 4px 8px 6px 4px #ff83fb;
+   padding: 20px; 
+   background-color: #2022
 }
 .infophoto{
-    height: 250px
+    height: 250px;
 }
 .info{
-    background-color:#FF83FB; ;
-    margin-left: 100px;
-    /*float: left; */
+    float:left;
+    padding-left: 250px;
+    font-size: 19px;
+    background-color: #ff83fb
 }
 .photo{
     float: left;
-    background-color: #FF83FB;
-} 
-
-
+    background-color: #ff83fb
+}
 .section{
-    margin-bottom: 10px;
+    margin-bottom: 70px;
     text-align: justify;
 }
-
 .sec-gauche{
     float: left;
-    margin-top: ;
     font-weight: bold;
-    color: #FF83FB;
+    font-size: 20px;
+    margin-top: px;
 }
-
-.sec-milieu{
-    float: center;
-    margin-bottom: ;
-}
-
 .sec-droite{
-    float: right;
-    margin-bottom: ;
-    
+    margin-left: 350px;
+    font-weight: normal;
+    margin-top: 35px ;
+}
+h3{
+    font-size:20px ;
+    color: #ff83fb
+}
+.duree{
+    font-weight: normal;
+    font-style: italic;
+    font-size: 16px;
+}
+.titre{
+    font-size: 20px;
+    font-weight: bold;
+}
+#forma-gauche p{
+    margin-bottom: 28px;
+}
+#exp-gauche p{
+    margin-top: 35px;
+}
+#exp-droite p{
+    margin-top: 29px;
+}
+#comp-gauche p{
+    margin-top: 5px;
 }
